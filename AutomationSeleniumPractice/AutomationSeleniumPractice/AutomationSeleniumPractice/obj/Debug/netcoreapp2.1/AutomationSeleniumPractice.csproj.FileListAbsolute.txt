@@ -1,0 +1,15 @@
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\AutomationSeleniumPractice.deps.json
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\AutomationSeleniumPractice.runtimeconfig.json
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\AutomationSeleniumPractice.runtimeconfig.dev.json
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\AutomationSeleniumPractice.dll
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.csprojAssemblyReference.cache
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.csproj.CoreCompileInputs.cache
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.AssemblyInfoInputs.cache
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.AssemblyInfo.cs
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\bin\Debug\netcoreapp2.1\AutomationSeleniumPractice.pdb
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.dll
+C:\Users\kumarn23\source\repos\AutomationSeleniumPractice\AutomationSeleniumPractice\obj\Debug\netcoreapp2.1\AutomationSeleniumPractice.pdb
